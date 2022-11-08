@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Joel Hernández Martín joelyx96@gmail.com
+ * @author Ruben Gonzalez Sabina
  */
 public class ParseInt {
     
